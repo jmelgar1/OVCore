@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.spongepowered:configurate-core:4.2.0-SNAPSHOT" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.spongepowered" artifactId="configurate-core" version="4.2.0-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spongepowered/configurate-core/4.2.0-SNAPSHOT/687c4da128592260f44e37eac2aa2b9140a5655a/configurate-core-4.2.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.spongepowered/configurate-core/4.2.0-SNAPSHOT/7b4f8312d7acad0bffe9e305b52464e6a8c2dc9/configurate-core-4.2.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.papermc:asm-utils:0.0.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.papermc" artifactId="asm-utils" version="0.0.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.papermc/asm-utils/0.0.1/7cdd751951f413af7879f6882604bab83e15f230/asm-utils-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.papermc/asm-utils/0.0.1/ba9505afe266bcd171171444b9a6ad8ef4eff088/asm-utils-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

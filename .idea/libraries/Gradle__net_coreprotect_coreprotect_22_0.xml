@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: net.coreprotect:coreprotect:22.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="net.coreprotect" artifactId="coreprotect" version="22.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.coreprotect/coreprotect/22.0/34d440e140cd9e1d30f9051025ab9d196f1bfe33/coreprotect-22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

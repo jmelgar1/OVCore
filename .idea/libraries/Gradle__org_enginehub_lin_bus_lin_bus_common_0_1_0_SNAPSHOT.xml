@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.enginehub.lin-bus:lin-bus-common:0.1.0-SNAPSHOT" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.enginehub.lin-bus" artifactId="lin-bus-common" version="0.1.0-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.enginehub.lin-bus/lin-bus-common/0.1.0-SNAPSHOT/8ef62b19efc888a944ba95a8d59330aaa650e45c/lin-bus-common-0.1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.enginehub.lin-bus/lin-bus-common/0.1.0-SNAPSHOT/4772f582d7871f12a55a9ccccbaaf8ddf769a83e/lin-bus-common-0.1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

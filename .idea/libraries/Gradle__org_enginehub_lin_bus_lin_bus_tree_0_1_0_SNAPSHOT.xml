@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.enginehub.lin-bus:lin-bus-tree:0.1.0-SNAPSHOT" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.enginehub.lin-bus" artifactId="lin-bus-tree" version="0.1.0-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.enginehub.lin-bus/lin-bus-tree/0.1.0-SNAPSHOT/2d738c3b63806afd4eda27258506590c4b739e59/lin-bus-tree-0.1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.enginehub.lin-bus/lin-bus-tree/0.1.0-SNAPSHOT/7a3920740027acc5c76f94709c19a029aea627c1/lin-bus-tree-0.1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

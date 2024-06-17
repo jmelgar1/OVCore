@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sk89q.worldguard:worldguard-bukkit:7.0.10" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.sk89q.worldguard" artifactId="worldguard-bukkit" version="7.0.10" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard/worldguard-bukkit/7.0.10/36cfaec80dbf043f6bb565d0277e2ad186073bc7/worldguard-bukkit-7.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard/worldguard-bukkit/7.0.10/31c9c6fe188e3151049047a63ccd04674e6b3ef2/worldguard-bukkit-7.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

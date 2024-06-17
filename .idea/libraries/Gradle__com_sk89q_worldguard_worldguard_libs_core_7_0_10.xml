@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sk89q.worldguard.worldguard-libs:core:7.0.10" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.sk89q.worldguard.worldguard-libs" artifactId="core" version="7.0.10" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard.worldguard-libs/core/7.0.10/f5faeeb3f5ab7e8c1dde3264264b5364274c854e/core-7.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sk89q.worldguard.worldguard-libs/core/7.0.10/5ae8783a3c282a696eb8ff29807586156817aa35/core-7.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

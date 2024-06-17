@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.papermc:reflection-rewriter:0.0.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.papermc" artifactId="reflection-rewriter" version="0.0.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.papermc/reflection-rewriter/0.0.1/e072b39ba200583de1584f50081484e181d7d598/reflection-rewriter-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.papermc/reflection-rewriter/0.0.1/45699ce7692155fa219e5d3a712d4a73188194a8/reflection-rewriter-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

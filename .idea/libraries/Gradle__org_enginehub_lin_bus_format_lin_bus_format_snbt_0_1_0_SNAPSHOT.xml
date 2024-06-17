@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.enginehub.lin-bus.format:lin-bus-format-snbt:0.1.0-SNAPSHOT" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.enginehub.lin-bus.format" artifactId="lin-bus-format-snbt" version="0.1.0-SNAPSHOT" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.enginehub.lin-bus.format/lin-bus-format-snbt/0.1.0-SNAPSHOT/11b50682c2f618812eaac764ea7fab312a24e031/lin-bus-format-snbt-0.1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.enginehub.lin-bus.format/lin-bus-format-snbt/0.1.0-SNAPSHOT/7e90ff689cbd251ee3f599691366bcef273b4c37/lin-bus-format-snbt-0.1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

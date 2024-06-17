@@ -1,0 +1,39 @@
+name: OVCore
+version: '2.0'
+main: org.ovclub.ovcore.OVCore
+api-version: '1.20'
+author: OVClub
+description: OVClub Commands
+commands:
+  donate:
+    description: Donate link
+    usage: /donate
+  kill:
+    description: Kill yourself
+    usage: /kill
+  rules:
+    description: List rules
+    usage: /rules
+  help:
+    description: See /help
+    usage: /help
+  chatrules:
+    description: List chat rules
+    usage: /chatrules
+  champions:
+    description: See the champions
+    usage: /champions
+  claim:
+    description: Claim a sponge reward
+    usage: /claim
+  tribes:
+    description: Tribes notification
+    usage: /tribes
+  setsponges:
+    description: Set sponge reward
+    usage: /setsponges [player] [amount]
+    permission: crews.setsponges
+  addsponges:
+    description: Add sponge reward
+    usage: /addsponges [player] [amount]
+    permission: crews.addsponges
